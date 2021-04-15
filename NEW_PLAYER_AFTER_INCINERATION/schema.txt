@@ -1,0 +1,14 @@
+Event 'New player after incineration': 
+0456679a469dcfc8e8dcb55f44c2daef (18 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		location: int
+		teamName: string
+		inPlayerId: string
+		outPlayerId: string
+		inPlayerName: string
+		outPlayerName: string
+	}
+

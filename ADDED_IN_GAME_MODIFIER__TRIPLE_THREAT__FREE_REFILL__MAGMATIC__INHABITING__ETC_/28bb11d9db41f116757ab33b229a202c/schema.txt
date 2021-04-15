@@ -1,0 +1,5 @@
+json {
+	mod: string
+	type: int
+	parent: string
+}

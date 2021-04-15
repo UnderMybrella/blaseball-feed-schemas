@@ -1,0 +1,35 @@
+{
+  "id": "f2134f3b-c3a3-455b-9bf3-e71fbdb54b06",
+  "playerTags": [
+    "611d18e0-b972-4cdd-afc2-793c56bfe5a9"
+  ],
+  "teamTags": [
+    "8d87c468-699a-47a8-b40d-cfb73a5660ad",
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+  ],
+  "gameTags": [
+    "3fdd2122-0aff-4329-9375-a659973286ca"
+  ],
+  "metadata": {
+    "play": 267,
+    "parent": "de3d5910-2a3a-4203-8bc4-62542a8b3e27",
+    "subPlay": 0,
+    "location": 0,
+    "playerId": "611d18e0-b972-4cdd-afc2-793c56bfe5a9",
+    "playerName": "Alston Cerveza",
+    "sendTeamId": "8d87c468-699a-47a8-b40d-cfb73a5660ad",
+    "sendTeamName": "Crabs",
+    "receiveTeamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+    "receiveLocation": 0,
+    "receiveTeamName": "Moist Talkers"
+  },
+  "created": "2021-04-15T01:22:45.235Z",
+  "season": 15,
+  "tournament": -1,
+  "type": 115,
+  "day": 55,
+  "phase": 4,
+  "category": 1,
+  "description": "Alston Cerveza is returned to the Moist Talkers.",
+  "nuts": 0
+}

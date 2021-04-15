@@ -1,0 +1,23 @@
+Event 'Wired -> Tired transitions': 
+7fbdbdb108999b57865bd25ea1048ca2 (35 entries): json {
+		to: string
+		from: string
+		play: int
+		type: int
+		parent: string
+		subPlay: int
+	}
+
+88707366db72dd53131c74d4601c4b84 (3 entries): json {
+		to: string
+		from: string
+		type: int
+		parent: string
+	}
+
+23f4d67e45c91da0d48af5377ad39fe0 (8 entries): json {
+		to: string
+		from: string
+		type: int
+	}
+

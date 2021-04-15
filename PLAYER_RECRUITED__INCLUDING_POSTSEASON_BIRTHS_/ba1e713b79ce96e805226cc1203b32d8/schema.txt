@@ -1,0 +1,8 @@
+json {
+	parent: string
+	teamId: string
+	location: int
+	playerId: string
+	teamName: string
+	playerName: string
+}

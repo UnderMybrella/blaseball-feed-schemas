@@ -1,0 +1,9 @@
+json {
+	source: string
+	removes: json [
+		json {
+			mod: string
+			type: int
+		}
+	]
+}

@@ -1,0 +1,109 @@
+Event 'Player echoed': 
+7cbd5ade406ed2ed82a5d19edda84002 (32 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+ba89e04a84b97953712d703158dbcade (16 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+25bc0eff104ffc74d03e5c43714e42a7 (3 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+9764e7d94a198fcd6b9622d0b8915d7a (27 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+59822195f5bdb7b81f4a0e843d1d275e (3 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+faa26b2f081db5c525c1e97fe1cdec70 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+19b33fdddf50ef61eaf03f358d2a78b1 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+

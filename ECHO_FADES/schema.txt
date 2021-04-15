@@ -1,0 +1,87 @@
+Event 'Echo Fades': 
+b8ba962366bd9153459d88fb018c3dc3 (157 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+ae23f84b930db1440931d696ed073d7a (20 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+c9f812a511e2712d0f35785ebe8dcbda (54 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+9a6382db01ad8c4010629b45c62e949f (1 entries): json {
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+		]
+	}
+
+c4e1507569af8f676240ccadafc4abb6 (26 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+

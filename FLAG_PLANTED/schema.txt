@@ -1,0 +1,7 @@
+Event 'Flag planted': 
+996db2034155059ca0d3f8ff05f101a7 (24 entries): json {
+		title: string
+		votes: int
+		renoId: string
+	}
+

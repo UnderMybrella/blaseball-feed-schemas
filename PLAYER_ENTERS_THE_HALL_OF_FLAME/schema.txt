@@ -1,0 +1,9 @@
+Event 'Player enters the Hall of Flame': 
+f50b7dbc400b1d18444ec8ff03b5f168 (18 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+674441960ca1ba2de08ad4e50c9fde98 (2 entries): null
+

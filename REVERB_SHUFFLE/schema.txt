@@ -1,0 +1,39 @@
+Event 'Reverb shuffle': 
+9744401ade96a6d56ffc77c2f2f222e8 (7 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+7cbd5ade406ed2ed82a5d19edda84002 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+

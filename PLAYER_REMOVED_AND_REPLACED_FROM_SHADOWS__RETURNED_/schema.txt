@@ -1,0 +1,12 @@
+Event 'Player removed and replaced from shadows (Returned)': 
+7be6937766e5f1e991bfd71b1efc5389 (2 entries): json {
+		teamId: string
+		teamName: string
+		removeLocation: int
+		removePlayerId: string
+		promoteLocation: int
+		promotePlayerId: string
+		removePlayerName: string
+		promotePlayerName: string
+	}
+

@@ -1,0 +1,16 @@
+json {
+	adds: json [
+		json {
+			mod: string
+			type: int
+		}
+		json {
+			mod: string
+			type: int
+		}
+	]
+	play: int
+	parent: string
+	source: string
+	subPlay: int
+}

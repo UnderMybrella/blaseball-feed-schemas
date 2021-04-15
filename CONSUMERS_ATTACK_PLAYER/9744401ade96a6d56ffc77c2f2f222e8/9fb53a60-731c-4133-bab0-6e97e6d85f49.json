@@ -1,0 +1,29 @@
+{
+  "id": "9fb53a60-731c-4133-bab0-6e97e6d85f49",
+  "playerTags": [
+    "ebe6ac02-3b83-4da8-b1e5-f89053bbd5c8"
+  ],
+  "teamTags": [
+    "bfd38797-8404-4b38-8b82-341da28b1f83",
+    "d9f89a8a-c563-493e-9d64-78e4f9a55d4a"
+  ],
+  "gameTags": [
+    "0aa21834-6d27-4e44-94d8-c62d93547920"
+  ],
+  "metadata": {
+    "play": 280,
+    "subPlay": -1,
+    "children": [
+      "30c04e14-801d-452a-85de-c8e2b97ef7a4"
+    ]
+  },
+  "created": "2021-04-09T19:24:24.344Z",
+  "season": 14,
+  "tournament": -1,
+  "type": 67,
+  "day": 98,
+  "phase": 6,
+  "category": 2,
+  "description": "CONSUMERS ATTACK\nJAN CANBERRA",
+  "nuts": 4
+}

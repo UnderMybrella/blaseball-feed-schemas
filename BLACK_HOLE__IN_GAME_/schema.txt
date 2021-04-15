@@ -1,0 +1,16 @@
+Event 'Black hole (in-game)': 
+ca8eb0f17640a867d1fe97f22902df4f (79 entries): json {
+		play: int
+		subPlay: int
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+

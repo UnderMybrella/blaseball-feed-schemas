@@ -1,0 +1,30 @@
+{
+  "id": "7577ed5d-5c28-4121-a389-750861262afd",
+  "playerTags": [
+    "d2d76815-cbdc-4c4b-9c9e-32ebf2297cc7"
+  ],
+  "teamTags": [
+    "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
+    "ca3f1c8c-c025-4d8e-8eef-5be6accbeb16"
+  ],
+  "gameTags": [
+    "89651db2-c5ba-4746-9568-0b2a40da93d6"
+  ],
+  "metadata": {
+    "play": 287,
+    "subPlay": -1,
+    "children": [
+      "5c55ab42-fe5f-4b76-9bba-4bbdeeaa17f5",
+      "009a167c-4ff2-42fe-98a6-45b01707b6f4"
+    ]
+  },
+  "created": "2021-03-13T03:24:27.273Z",
+  "season": 12,
+  "tournament": -1,
+  "type": 35,
+  "day": 104,
+  "phase": 9,
+  "category": 2,
+  "description": "The Birds circle...\nThe Birds pecked Denzel Scott free!",
+  "nuts": 0
+}

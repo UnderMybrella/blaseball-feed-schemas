@@ -1,0 +1,12 @@
+Event 'ECHO player STATIC': 
+7cbd5ade406ed2ed82a5d19edda84002 (6 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+

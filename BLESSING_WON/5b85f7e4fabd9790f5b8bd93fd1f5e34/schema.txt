@@ -1,0 +1,20 @@
+json {
+	id: string
+	title: string
+	teamId: string
+	children: json [
+		string
+		string
+		string
+		string
+		string
+		string
+		string
+		string
+		string
+		string
+		string
+	]
+	teamName: string
+	highestTeam: string
+}

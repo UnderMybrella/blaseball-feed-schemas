@@ -1,0 +1,29 @@
+Event 'Tarot reading': 
+e0e57a882590015dca67dac1c60a8775 (3 entries): json {
+		count: string
+		spread: json [
+			int
+			int
+			int
+		]
+	}
+
+9cb6a31360e9508caadbefe75b2aa162 (1 entries): json {
+		count: int
+		spread: json [
+			int
+			int
+			int
+		]
+	}
+
+ace2d5c0d0c12c16546f65c0e175789b (1 entries): json {
+		count: string
+		spread: json [
+			int
+			int
+			int
+		]
+		tarotId: string
+	}
+

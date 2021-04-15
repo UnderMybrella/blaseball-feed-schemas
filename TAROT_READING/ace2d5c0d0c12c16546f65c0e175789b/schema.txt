@@ -1,0 +1,9 @@
+json {
+	count: string
+	spread: json [
+		int
+		int
+		int
+	]
+	tarotId: string
+}

@@ -1,0 +1,6 @@
+json {
+	type: int
+	after: double
+	before: double
+	parent: string
+}

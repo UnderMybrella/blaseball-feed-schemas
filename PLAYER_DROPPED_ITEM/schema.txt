@@ -1,0 +1,40 @@
+Event 'Player dropped item': 
+7fdd82ba9afe69726cf8cee6699bce7f (13 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: int
+		playerItemRatingBefore: double
+	}
+
+745e7cd1931842015c63ac3631904f4c (2 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: int
+		playerItemRatingBefore: int
+	}
+
+911c0048743aa8eabc1483301e0ac68a (1 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: double
+		playerItemRatingBefore: double
+	}
+

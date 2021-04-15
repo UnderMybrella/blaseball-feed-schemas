@@ -1,0 +1,4 @@
+json {
+	play: int
+	subPlay: int
+}

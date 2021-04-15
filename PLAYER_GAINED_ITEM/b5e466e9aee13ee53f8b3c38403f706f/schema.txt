@@ -1,0 +1,11 @@
+json {
+	mods: json [
+		string
+	]
+	itemId: string
+	parent: string
+	itemName: string
+	playerRating: double
+	playerItemRatingAfter: double
+	playerItemRatingBefore: int
+}

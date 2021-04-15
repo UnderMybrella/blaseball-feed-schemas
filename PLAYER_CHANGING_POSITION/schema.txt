@@ -1,0 +1,27 @@
+Event 'Player changing position': 
+79ff3ae0a6d24e11e0fb77156dbabc72 (9 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		teamName: string
+		aLocation: int
+		aPlayerId: string
+		bLocation: int
+		bPlayerId: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+
+7144da5cf54d44a5afb48938531e6c39 (49 entries): json {
+		parent: string
+		teamId: string
+		teamName: string
+		aLocation: int
+		aPlayerId: string
+		bLocation: int
+		bPlayerId: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+

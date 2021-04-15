@@ -1,0 +1,9 @@
+Event 'Player hits another with a pitch': 
+9744401ade96a6d56ffc77c2f2f222e8 (31 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+

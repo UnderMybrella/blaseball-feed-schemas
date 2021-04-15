@@ -1,0 +1,13 @@
+Event 'Player sent to shadows and replaced (necromancy)': 
+9c77c593d1aff09e81506abb4f67bdfb (3 entries): json {
+		parent: string
+		teamId: string
+		teamName: string
+		addLocation: int
+		addPlayerId: string
+		addPlayerName: string
+		retreatLocation: int
+		retreatPlayerId: string
+		retreatPlayerName: string
+	}
+

@@ -1,0 +1,13 @@
+json {
+	parent: string
+	aTeamId: string
+	bTeamId: string
+	aLocation: int
+	aPlayerId: string
+	aTeamName: string
+	bLocation: int
+	bPlayerId: string
+	bTeamName: string
+	aPlayerName: string
+	bPlayerName: string
+}

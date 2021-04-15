@@ -1,0 +1,51 @@
+Event 'Perk': 
+9744401ade96a6d56ffc77c2f2f222e8 (78 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (28 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (39 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+7cbd5ade406ed2ed82a5d19edda84002 (5 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+25bc0eff104ffc74d03e5c43714e42a7 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+

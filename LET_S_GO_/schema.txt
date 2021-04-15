@@ -1,0 +1,10 @@
+Event 'Let's Go!': 
+57894b2c35ee9535f319142612ca837a (1000 entries): json {
+		away: string
+		home: string
+		play: int
+		stadium: string
+		subPlay: int
+		weather: int
+	}
+

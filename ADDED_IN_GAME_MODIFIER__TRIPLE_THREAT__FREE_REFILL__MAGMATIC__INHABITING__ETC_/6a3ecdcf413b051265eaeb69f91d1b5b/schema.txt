@@ -1,0 +1,4 @@
+json {
+	mod: string
+	type: int
+}

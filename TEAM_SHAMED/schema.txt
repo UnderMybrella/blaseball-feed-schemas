@@ -1,0 +1,6 @@
+Event 'Team shamed': 
+27f464783be09851b6b3a478ab2e4948 (519 entries): json {
+		totalShames: int
+		totalShamings: int
+	}
+

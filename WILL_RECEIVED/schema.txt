@@ -1,0 +1,54 @@
+Event 'Will received': 
+9c8ad827603312916f5cbf5aec026f13 (115 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+86ec1374eee25fcbcc18ae186681393e (6 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+fe355c5c0f880e160b2163f0d95300d2 (80 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+			string
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+335516c924018520cb319ac032191cd3 (3 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+

@@ -1,0 +1,11 @@
+Event 'ECHO player STATIC (child event)': 
+1dbf63258eae39c4dc4e87fd4f7d9aec (12 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+

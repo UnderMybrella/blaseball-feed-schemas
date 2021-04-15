@@ -1,0 +1,17 @@
+Event 'Player stat decrease': 
+a9274ebcc0b9b061d3c464f50d20afcf (361 entries): json {
+		play: int
+		type: int
+		after: double
+		before: double
+		parent: string
+		subPlay: int
+	}
+
+597222bc90e646a69d63125d8a26a28d (11 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+

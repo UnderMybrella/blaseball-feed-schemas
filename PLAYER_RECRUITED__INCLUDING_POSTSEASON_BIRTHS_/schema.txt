@@ -1,0 +1,29 @@
+Event 'Player recruited (including Postseason Births)': 
+746afb603a60da78af4d30778f8042d0 (5 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		location: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+
+1044ea6aebb5c104b9b79094d2f8ddc1 (53 entries): json {
+		teamId: string
+		location: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+
+ba1e713b79ce96e805226cc1203b32d8 (3 entries): json {
+		parent: string
+		teamId: string
+		location: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+

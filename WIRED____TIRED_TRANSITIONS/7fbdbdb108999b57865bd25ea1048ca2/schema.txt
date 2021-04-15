@@ -1,0 +1,8 @@
+json {
+	to: string
+	from: string
+	play: int
+	type: int
+	parent: string
+	subPlay: int
+}

@@ -1,0 +1,5 @@
+Event 'Player exits the Hall of Flame': 
+ce4708628990d6b414310ab0aaeebcc3 (3 entries): json {
+		parent: string
+	}
+

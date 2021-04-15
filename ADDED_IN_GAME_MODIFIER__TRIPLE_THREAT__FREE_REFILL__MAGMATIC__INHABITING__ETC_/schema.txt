@@ -1,0 +1,20 @@
+Event 'Added in-game modifier (Triple Threat, Free Refill, Magmatic, Inhabiting, etc)': 
+1141dc704717ef6f5d0397eba44e6ddf (953 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		subPlay: int
+	}
+
+28bb11d9db41f116757ab33b229a202c (17 entries): json {
+		mod: string
+		type: int
+		parent: string
+	}
+
+6a3ecdcf413b051265eaeb69f91d1b5b (30 entries): json {
+		mod: string
+		type: int
+	}
+

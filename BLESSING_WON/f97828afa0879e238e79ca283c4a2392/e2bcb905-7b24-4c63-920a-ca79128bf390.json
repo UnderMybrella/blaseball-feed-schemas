@@ -1,0 +1,43 @@
+{
+  "id": "e2bcb905-7b24-4c63-920a-ca79128bf390",
+  "playerTags": [],
+  "teamTags": [
+    "46358869-dce9-4a01-bfba-ac24fc56f57e"
+  ],
+  "gameTags": [],
+  "metadata": {
+    "id": "team_shadows_ranged_hitting",
+    "title": "Shadow Batting Practice",
+    "votes": 28041,
+    "teamId": "46358869-dce9-4a01-bfba-ac24fc56f57e",
+    "children": [
+      "a6fe84a2-3d11-4f9a-ac6b-aa29647a3db5",
+      "7786438b-b048-48d8-9b7c-e15e6b6a689c",
+      "48f8b490-3c4a-4071-8d08-ab3314b22991",
+      "27a8b914-d895-413f-989d-1da0676842d2",
+      "fc8b0669-0605-4999-9f4c-4d3aca1a8fdf",
+      "a1c526f4-0b10-4dd4-9422-76bf26ec23f8",
+      "8d2f002c-f384-4a4d-972a-36e129a9423e",
+      "25b50f85-6251-4d0f-abd6-92e9e8663295",
+      "29e3d1b9-84db-493f-a9a8-543e31ba8fec",
+      "bd743e82-75eb-44a1-ad1b-48739427125d",
+      "e3bab68a-c90d-4d82-b013-fdf579782006",
+      "7e27d0bf-20bf-401d-b381-d06200adc0ab",
+      "59355b33-f2df-4a08-85da-37a9f033252b",
+      "3f15af59-b67c-47d9-8b30-765b18e4c16a"
+    ],
+    "teamName": "Mechanics",
+    "totalVotes": 1099366,
+    "highestTeam": "9debc64f-74b7-4ae1-a4d6-fce0144b6ea5",
+    "highestVotes": 108768
+  },
+  "created": "2021-04-11T18:16:46.690Z",
+  "season": 14,
+  "tournament": -1,
+  "type": 60,
+  "day": 113,
+  "phase": 13,
+  "category": 3,
+  "description": "Blessing Won: Shadow Batting Practice, Mechanics",
+  "nuts": 4
+}

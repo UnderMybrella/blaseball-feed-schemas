@@ -1,0 +1,18 @@
+Event 'Incineration': 
+f50b7dbc400b1d18444ec8ff03b5f168 (18 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+7cbd5ade406ed2ed82a5d19edda84002 (18 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+

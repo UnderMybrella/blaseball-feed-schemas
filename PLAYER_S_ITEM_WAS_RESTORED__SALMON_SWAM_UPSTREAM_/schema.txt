@@ -1,0 +1,17 @@
+Event 'Player's item was restored (Salmon swam upstream)': 
+ec25c3c87b9b7099ea2522038d294ad6 (34 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: double
+		playerItemRatingBefore: int
+	}
+

@@ -1,0 +1,622 @@
+Event 'Blessing won': 
+8b191e222cf3894e493a2365e9ff9205 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+b0ef992c63eae5dfdbcebae77aaf41d3 (31 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+d2dfa3458d7f217e514c5272d04050d1 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+47c554d5317bdb7facb91da2e1f6fcc4 (3 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+3f9cda77713fa243a94490da2915d817 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+f97828afa0879e238e79ca283c4a2392 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+4714bff37b7251003b050e2e43e703a2 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+e3f7ab71bb250c330ec2e7cd1b59a1de (3 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+c0a8aadd2e7aab0f6c40957a9dc124ed (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+42ff37bd004196a6ec47dcd77fc878b3 (2 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+5b85f7e4fabd9790f5b8bd93fd1f5e34 (1 entries): json {
+		id: string
+		title: string
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		highestTeam: string
+	}
+
+4775d626403855bff67ec1416d8893fa (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+a0c5fc1c6d9ce3575e43a31b64bd20c8 (4 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+90d9e256691ed8847c2fcb28a0566115 (2 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+7aeab9922a1e4e138fed115c96a041fe (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+c64ec8e4dd815253d5e7eb3b86c6533e (2 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+636aed40da24a262fc0d8a2c18431c27 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+435939bd485a780d7a194bda4bfed8e1 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+eddc0b6b75e5d0631fe574ec0b4c8885 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+2a2b13ad57accfb1bcc57768365c3e89 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+

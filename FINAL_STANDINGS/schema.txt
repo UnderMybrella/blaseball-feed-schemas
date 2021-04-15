@@ -1,0 +1,5 @@
+Event 'Final standings': 
+0e4e46bd539adf8219ab229580789ad4 (96 entries): json {
+		place: int
+	}
+

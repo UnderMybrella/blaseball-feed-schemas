@@ -1,0 +1,27 @@
+{
+  "id": "e8582af3-2267-4021-a590-8e7346cd277c",
+  "playerTags": [],
+  "teamTags": [
+    "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
+    "8d87c468-699a-47a8-b40d-cfb73a5660ad"
+  ],
+  "gameTags": [
+    "bc767975-5348-466a-8e88-61a8d87da6f6"
+  ],
+  "metadata": {
+    "play": 282,
+    "subPlay": -1,
+    "children": [
+      "bf96f151-c15b-4420-b647-debdb8737731"
+    ]
+  },
+  "created": "2021-04-15T15:24:14.190Z",
+  "season": 15,
+  "tournament": -1,
+  "type": 14,
+  "day": 69,
+  "phase": 4,
+  "category": 0,
+  "description": "Ball. 3-0\nLenny Marijuana's Bat broke!",
+  "nuts": 0
+}

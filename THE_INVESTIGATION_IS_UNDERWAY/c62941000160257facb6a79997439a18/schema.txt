@@ -1,0 +1,6 @@
+json {
+	children: json [
+		string
+		string
+	]
+}

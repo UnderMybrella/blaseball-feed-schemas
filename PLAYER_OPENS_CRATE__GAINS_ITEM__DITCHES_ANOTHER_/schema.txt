@@ -1,0 +1,18 @@
+Event 'Player opens crate (Gains item, ditches another)': 
+6a5efb140f0519038a5d547071f9dcf8 (16 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (6 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+

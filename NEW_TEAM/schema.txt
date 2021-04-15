@@ -1,0 +1,8 @@
+Event 'New team': 
+7a53a3f5673e2caa1a256c62f11d7116 (4 entries): json {
+		teamId: string
+		teamName: string
+		divisionId: string
+		divisionName: string
+	}
+

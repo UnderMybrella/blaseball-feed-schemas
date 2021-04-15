@@ -1,0 +1,10 @@
+json {
+	teamId: string
+	teamName: string
+	removeLocation: int
+	removePlayerId: string
+	promoteLocation: int
+	promotePlayerId: string
+	removePlayerName: string
+	promotePlayerName: string
+}

@@ -1,0 +1,4 @@
+json {
+	totalShames: int
+	totalShamings: int
+}

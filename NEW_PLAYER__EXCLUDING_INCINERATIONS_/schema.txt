@@ -1,0 +1,5 @@
+Event 'New player (excluding incinerations)': 
+b00a494c24463da72a6cff5f50c225ac (16 entries): json {
+		id: string
+	}
+

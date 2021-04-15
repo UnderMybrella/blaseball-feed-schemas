@@ -1,0 +1,8 @@
+json {
+	mods: json [
+		string
+		string
+		string
+	]
+	type: int
+}

@@ -1,0 +1,5 @@
+Event 'Player gained blood type': 
+ce4708628990d6b414310ab0aaeebcc3 (23 entries): json {
+		parent: string
+	}
+

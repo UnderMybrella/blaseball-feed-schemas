@@ -1,0 +1,31 @@
+Event 'Player trade': 
+e9421bcbbf603ef51dc261100b32dd6a (13 entries): json {
+		play: int
+		parent: string
+		aTeamId: string
+		bTeamId: string
+		subPlay: int
+		aLocation: int
+		aPlayerId: string
+		aTeamName: string
+		bLocation: int
+		bPlayerId: string
+		bTeamName: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+
+08526adbf423f9e76c4815a7cc9c02ea (47 entries): json {
+		parent: string
+		aTeamId: string
+		bTeamId: string
+		aLocation: int
+		aPlayerId: string
+		aTeamName: string
+		bLocation: int
+		bPlayerId: string
+		bTeamName: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+

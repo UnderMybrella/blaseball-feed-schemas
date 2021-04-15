@@ -1,0 +1,13 @@
+json {
+	id: string
+	title: string
+	votes: int
+	children: json [
+		string
+		string
+		string
+		string
+		string
+	]
+	totalVotes: int
+}

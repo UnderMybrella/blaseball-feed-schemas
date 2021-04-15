@@ -1,0 +1,8 @@
+json {
+	away: string
+	home: string
+	play: int
+	stadium: string
+	subPlay: int
+	weather: int
+}

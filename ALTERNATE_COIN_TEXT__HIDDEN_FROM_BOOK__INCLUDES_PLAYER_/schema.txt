@@ -1,0 +1,12 @@
+Event 'Alternate Coin text (hidden from Book, includes player)': 
+3023d424768fa67408b6d2b72da0c7f5 (3 entries): json {
+	}
+
+674441960ca1ba2de08ad4e50c9fde98 (7 entries): null
+
+f50b7dbc400b1d18444ec8ff03b5f168 (2 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+

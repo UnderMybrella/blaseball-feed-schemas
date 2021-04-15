@@ -1,0 +1,15 @@
+json {
+	play: int
+	parent: string
+	aTeamId: string
+	bTeamId: string
+	subPlay: int
+	aLocation: int
+	aPlayerId: string
+	aTeamName: string
+	bLocation: int
+	bPlayerId: string
+	bTeamName: string
+	aPlayerName: string
+	bPlayerName: string
+}

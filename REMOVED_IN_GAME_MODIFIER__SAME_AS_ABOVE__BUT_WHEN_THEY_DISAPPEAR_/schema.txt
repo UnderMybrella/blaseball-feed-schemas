@@ -1,0 +1,14 @@
+Event 'Removed in-game modifier (same as above, but when they disappear)': 
+1141dc704717ef6f5d0397eba44e6ddf (990 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		subPlay: int
+	}
+
+6a3ecdcf413b051265eaeb69f91d1b5b (10 entries): json {
+		mod: string
+		type: int
+	}
+

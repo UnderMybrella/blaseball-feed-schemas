@@ -1,0 +1,16 @@
+json {
+	play: int
+	parent: string
+	source: string
+	removes: json [
+		json {
+			mod: string
+			type: int
+		}
+		json {
+			mod: string
+			type: int
+		}
+	]
+	subPlay: int
+}

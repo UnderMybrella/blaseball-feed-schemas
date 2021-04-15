@@ -1,0 +1,6 @@
+Event 'Strike (not including Foul Balls)': 
+ca8eb0f17640a867d1fe97f22902df4f (1000 entries): json {
+		play: int
+		subPlay: int
+	}
+

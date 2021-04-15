@@ -1,0 +1,8 @@
+json {
+	mod: string
+	play: int
+	type: int
+	parent: string
+	source: string
+	subPlay: int
+}

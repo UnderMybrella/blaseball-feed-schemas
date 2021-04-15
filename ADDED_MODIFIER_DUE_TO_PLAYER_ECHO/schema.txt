@@ -1,0 +1,77 @@
+Event 'Added modifier due to Player echo': 
+f95f71cbd912c3883a0b87f3d283937c (161 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+90d9d83400c1467f6e6f5f3794953d8e (20 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+aeb88645b4364d74675f5a77cc6680eb (62 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+5962a89b26c986bda2582755fa06720b (28 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+

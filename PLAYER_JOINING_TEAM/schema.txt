@@ -1,0 +1,49 @@
+Event 'Player joining team': 
+4b74558a358b11f77bafe69eaf083472 (8 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveLocation: int
+		receiveTeamName: string
+	}
+
+0c41af7f1ee92efc078fe3bb50478a0f (5 entries): json {
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveLocation: int
+		receiveTeamName: string
+	}
+
+aa88f1fb30d51037772381171acca669 (17 entries): json {
+		parent: string
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveLocation: int
+		receiveTeamName: string
+	}
+
+5c43e813a6f26406a7646c99f5e9172b (8 entries): json {
+		parent: string
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveTeamName: string
+	}
+

@@ -1,0 +1,10 @@
+Event 'Added modifier due to another modifier(?) (under/over, Perk)': 
+31c9259834f4b2de15d56f626f3c4a65 (849 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+

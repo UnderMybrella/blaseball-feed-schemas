@@ -1,0 +1,5 @@
+json {
+	to: string
+	from: string
+	type: int
+}

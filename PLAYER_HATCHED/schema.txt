@@ -1,0 +1,12 @@
+Event 'Player hatched': 
+6fdad44bdefcac080e5a0efdfb44939b (18 entries): json {
+		id: string
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+b00a494c24463da72a6cff5f50c225ac (40 entries): json {
+		id: string
+	}
+

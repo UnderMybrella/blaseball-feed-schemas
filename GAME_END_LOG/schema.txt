@@ -1,0 +1,16 @@
+Event 'Game end log': 
+958a28b8b3b08d08046f39028993838c (998 entries): json {
+		play: int
+		winner: string
+		subPlay: int
+	}
+
+7ee80ed140fcb326e7e04273aae52164 (2 entries): json {
+		play: int
+		winner: string
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+

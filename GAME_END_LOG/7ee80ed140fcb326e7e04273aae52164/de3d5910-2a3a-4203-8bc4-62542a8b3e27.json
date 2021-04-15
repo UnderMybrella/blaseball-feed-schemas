@@ -1,0 +1,30 @@
+{
+  "id": "de3d5910-2a3a-4203-8bc4-62542a8b3e27",
+  "playerTags": [],
+  "teamTags": [
+    "8d87c468-699a-47a8-b40d-cfb73a5660ad",
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+    "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+    "8d87c468-699a-47a8-b40d-cfb73a5660ad"
+  ],
+  "gameTags": [
+    "3fdd2122-0aff-4329-9375-a659973286ca"
+  ],
+  "metadata": {
+    "play": 267,
+    "winner": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+    "subPlay": -1,
+    "children": [
+      "f2134f3b-c3a3-455b-9bf3-e71fbdb54b06"
+    ]
+  },
+  "created": "2021-04-15T01:22:45.227Z",
+  "season": 15,
+  "tournament": -1,
+  "type": 11,
+  "day": 55,
+  "phase": 4,
+  "category": 3,
+  "description": "Moist Talkers 1, Crabs 0",
+  "nuts": 3
+}

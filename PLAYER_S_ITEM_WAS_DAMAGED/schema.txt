@@ -1,0 +1,17 @@
+Event 'Player's item was damaged': 
+4132b703f2b3f560e0f1751ee44566e1 (5 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: double
+		playerItemRatingBefore: double
+	}
+

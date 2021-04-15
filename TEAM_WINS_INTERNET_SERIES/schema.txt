@@ -1,0 +1,5 @@
+Event 'Team wins Internet Series': 
+54d6c104934f815472e169ffba2a09b7 (4 entries): json {
+		championships: int
+	}
+

@@ -1,0 +1,13 @@
+Event 'Renovation built': 
+996db2034155059ca0d3f8ff05f101a7 (99 entries): json {
+		title: string
+		votes: int
+		renoId: string
+	}
+
+2b311a73c75286827fca4ff7dec05a84 (3 entries): json {
+		title: string
+		votes: string
+		renoId: string
+	}
+

@@ -1,0 +1,27 @@
+{
+  "id": "6cebb15b-3464-42d6-b614-24e046dc7a9c",
+  "playerTags": [],
+  "teamTags": [
+    "f02aeae2-5e6a-4098-9842-02d2273f25c7",
+    "c73b705c-40ad-4633-a6ed-d357ee2e2bcf"
+  ],
+  "gameTags": [
+    "a6c4b83d-d5a4-4005-9732-c75b3f91c1df"
+  ],
+  "metadata": {
+    "play": 167,
+    "subPlay": -1,
+    "children": [
+      "ec1a5afb-8708-4a88-bb2d-8864712693eb"
+    ]
+  },
+  "created": "2021-03-18T23:14:41.525Z",
+  "season": 13,
+  "tournament": -1,
+  "type": 174,
+  "day": 78,
+  "phase": 6,
+  "category": 2,
+  "description": "ECHO Wyatt Mason ECHO Wyatt Quitter ECHO",
+  "nuts": 0
+}

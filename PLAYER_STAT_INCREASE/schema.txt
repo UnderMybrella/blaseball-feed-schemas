@@ -1,0 +1,23 @@
+Event 'Player stat increase': 
+a9274ebcc0b9b061d3c464f50d20afcf (379 entries): json {
+		play: int
+		type: int
+		after: double
+		before: double
+		parent: string
+		subPlay: int
+	}
+
+597222bc90e646a69d63125d8a26a28d (522 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+bd0b32a0c2f85785283d45115bcdae9a (45 entries): json {
+		type: int
+		after: double
+		before: double
+	}
+

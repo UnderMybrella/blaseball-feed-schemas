@@ -1,0 +1,3015 @@
+Event 'Let's Go!': 
+57894b2c35ee9535f319142612ca837a (1000 entries): json {
+		away: string
+		home: string
+		play: int
+		stadium: string
+		subPlay: int
+		weather: int
+	}
+
+Event 'Play ball!': 
+ca8eb0f17640a867d1fe97f22902df4f (1000 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Half-inning': 
+ca8eb0f17640a867d1fe97f22902df4f (1000 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Pitcher change': 
+ca8eb0f17640a867d1fe97f22902df4f (4 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Stolen base': 
+ca8eb0f17640a867d1fe97f22902df4f (998 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Walk': 
+ca8eb0f17640a867d1fe97f22902df4f (989 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (11 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Strikeout': 
+ca8eb0f17640a867d1fe97f22902df4f (991 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (9 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Flyout': 
+ca8eb0f17640a867d1fe97f22902df4f (995 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (5 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Ground out': 
+ca8eb0f17640a867d1fe97f22902df4f (988 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (12 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Home run': 
+ca8eb0f17640a867d1fe97f22902df4f (984 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (16 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Hit (single/double/triple)': 
+ca8eb0f17640a867d1fe97f22902df4f (984 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (16 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Game end log': 
+958a28b8b3b08d08046f39028993838c (998 entries): json {
+		play: int
+		winner: string
+		subPlay: int
+	}
+
+7ee80ed140fcb326e7e04273aae52164 (2 entries): json {
+		play: int
+		winner: string
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Plate appearance': 
+ca8eb0f17640a867d1fe97f22902df4f (992 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (8 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Strike (not including Foul Balls)': 
+ca8eb0f17640a867d1fe97f22902df4f (1000 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Ball': 
+ca8eb0f17640a867d1fe97f22902df4f (999 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Foul Ball': 
+ca8eb0f17640a867d1fe97f22902df4f (998 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_16': 
+Event 'UNK_17': 
+Event 'UNK_18': 
+Event 'UNK_19': 
+Event 'Solar Panel overflow runs': 
+ca8eb0f17640a867d1fe97f22902df4f (4 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'UNK_21': 
+Event 'Player hits another with a pitch': 
+9744401ade96a6d56ffc77c2f2f222e8 (31 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Player skipped due to being Shelled or Elsewhere': 
+ca8eb0f17640a867d1fe97f22902df4f (1000 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Partying': 
+9744401ade96a6d56ffc77c2f2f222e8 (353 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Strike zapped by Electric blood': 
+ca8eb0f17640a867d1fe97f22902df4f (1000 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'UNK_26': 
+Event 'Mild pitch': 
+ca8eb0f17640a867d1fe97f22902df4f (233 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'End of inning': 
+ca8eb0f17640a867d1fe97f22902df4f (995 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (5 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Site takeover text': 
+ef3b06df19d84446c0e4bc2dab818993 (192 entries): json {
+		being: int
+	}
+
+Event 'Black hole (in-game)': 
+ca8eb0f17640a867d1fe97f22902df4f (79 entries): json {
+		play: int
+		subPlay: int
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+Event 'Sun 2 (in-game)': 
+ca8eb0f17640a867d1fe97f22902df4f (65 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_32': 
+Event 'Birds flavor text': 
+ca8eb0f17640a867d1fe97f22902df4f (666 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Murder of crows': 
+ca8eb0f17640a867d1fe97f22902df4f (114 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Birds free shelled player': 
+6a5efb140f0519038a5d547071f9dcf8 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'Triple Threat': 
+6a5efb140f0519038a5d547071f9dcf8 (81 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (6 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Free Refill': 
+9744401ade96a6d56ffc77c2f2f222e8 (219 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_38': 
+Event 'Wired': 
+9744401ade96a6d56ffc77c2f2f222e8 (250 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Feedback blocked': 
+9744401ade96a6d56ffc77c2f2f222e8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Feedback': 
+9744401ade96a6d56ffc77c2f2f222e8 (13 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_42': 
+Event 'UNK_43': 
+Event 'UNK_44': 
+Event 'UNK_45': 
+Event 'UNK_46': 
+Event 'Allergic reaction': 
+9744401ade96a6d56ffc77c2f2f222e8 (30 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Reverberating': 
+9744401ade96a6d56ffc77c2f2f222e8 (3 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Reverb shuffle': 
+9744401ade96a6d56ffc77c2f2f222e8 (7 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+7cbd5ade406ed2ed82a5d19edda84002 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'UNK_50': 
+Event 'Blooddrain': 
+6a5efb140f0519038a5d547071f9dcf8 (6 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'Siphon': 
+9744401ade96a6d56ffc77c2f2f222e8 (33 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (15 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'UNK_53': 
+Event 'Incineration': 
+f50b7dbc400b1d18444ec8ff03b5f168 (18 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+7cbd5ade406ed2ed82a5d19edda84002 (18 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+Event 'Fire eating': 
+9744401ade96a6d56ffc77c2f2f222e8 (59 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+ca8eb0f17640a867d1fe97f22902df4f (1 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Flag planted': 
+996db2034155059ca0d3f8ff05f101a7 (24 entries): json {
+		title: string
+		votes: int
+		renoId: string
+	}
+
+Event 'Renovation built': 
+996db2034155059ca0d3f8ff05f101a7 (99 entries): json {
+		title: string
+		votes: int
+		renoId: string
+	}
+
+2b311a73c75286827fca4ff7dec05a84 (3 entries): json {
+		title: string
+		votes: string
+		renoId: string
+	}
+
+Event 'UNK_58': 
+Event 'Decree passed': 
+97202342ee49f878f3d54c23157e8e94 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		totalVotes: int
+	}
+
+17f8e85f359fe8db1ed4d630db9106ba (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		children: json [
+			string
+		]
+		totalVotes: int
+	}
+
+d9f427ee11c331397ec75743f049d803 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+		totalVotes: int
+	}
+
+30e5cd25cf5e18131b4200479b161282 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		totalVotes: int
+	}
+
+Event 'Blessing won': 
+8b191e222cf3894e493a2365e9ff9205 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+b0ef992c63eae5dfdbcebae77aaf41d3 (31 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+d2dfa3458d7f217e514c5272d04050d1 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+47c554d5317bdb7facb91da2e1f6fcc4 (3 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+3f9cda77713fa243a94490da2915d817 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+f97828afa0879e238e79ca283c4a2392 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+4714bff37b7251003b050e2e43e703a2 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+e3f7ab71bb250c330ec2e7cd1b59a1de (3 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+c0a8aadd2e7aab0f6c40957a9dc124ed (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+42ff37bd004196a6ec47dcd77fc878b3 (2 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+5b85f7e4fabd9790f5b8bd93fd1f5e34 (1 entries): json {
+		id: string
+		title: string
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		highestTeam: string
+	}
+
+4775d626403855bff67ec1416d8893fa (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+a0c5fc1c6d9ce3575e43a31b64bd20c8 (4 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+90d9e256691ed8847c2fcb28a0566115 (2 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+7aeab9922a1e4e138fed115c96a041fe (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+c64ec8e4dd815253d5e7eb3b86c6533e (2 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+636aed40da24a262fc0d8a2c18431c27 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+435939bd485a780d7a194bda4bfed8e1 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+eddc0b6b75e5d0631fe574ec0b4c8885 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+2a2b13ad57accfb1bcc57768365c3e89 (1 entries): json {
+		id: string
+		title: string
+		votes: int
+		teamId: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		teamName: string
+		totalVotes: int
+		highestTeam: string
+		highestVotes: int
+	}
+
+Event 'Will received': 
+9c8ad827603312916f5cbf5aec026f13 (115 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+86ec1374eee25fcbcc18ae186681393e (6 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+fe355c5c0f880e160b2163f0d95300d2 (80 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+			string
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+335516c924018520cb319ac032191cd3 (3 entries): json {
+		id: string
+		title: string
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+		dataVotes: int
+		willVotes: int
+		totalVotes: int
+	}
+
+Event 'Flood': 
+ca8eb0f17640a867d1fe97f22902df4f (849 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (147 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'Salmon swim upstream': 
+9744401ade96a6d56ffc77c2f2f222e8 (35 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+ca8eb0f17640a867d1fe97f22902df4f (149 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'UNK_64': 
+Event 'Player enters secret base': 
+ca8eb0f17640a867d1fe97f22902df4f (369 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Player exits secret base': 
+ca8eb0f17640a867d1fe97f22902df4f (298 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Consumers attack Player': 
+9744401ade96a6d56ffc77c2f2f222e8 (281 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'UNK_68': 
+Event 'Echo Chamber traps a wave': 
+9744401ade96a6d56ffc77c2f2f222e8 (11 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Player hops on the grind rail': 
+ca8eb0f17640a867d1fe97f22902df4f (771 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'UNK_71': 
+Event 'Peanut Mister': 
+ca8eb0f17640a867d1fe97f22902df4f (79 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (3 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Peanuts flavor text': 
+ca8eb0f17640a867d1fe97f22902df4f (720 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Tasting the infinite (Shelling)': 
+9744401ade96a6d56ffc77c2f2f222e8 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_75': 
+Event 'UNK_76': 
+Event 'UNK_77': 
+Event 'Solar Panel alignment': 
+ca8eb0f17640a867d1fe97f22902df4f (29 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Solar Panel run collection': 
+ca8eb0f17640a867d1fe97f22902df4f (4 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'UNK_80': 
+Event 'Tarot reading': 
+e0e57a882590015dca67dac1c60a8775 (3 entries): json {
+		count: string
+		spread: json [
+			int
+			int
+			int
+		]
+	}
+
+9cb6a31360e9508caadbefe75b2aa162 (1 entries): json {
+		count: int
+		spread: json [
+			int
+			int
+			int
+		]
+	}
+
+ace2d5c0d0c12c16546f65c0e175789b (1 entries): json {
+		count: string
+		spread: json [
+			int
+			int
+			int
+		]
+		tarotId: string
+	}
+
+Event 'Emergency Alert': 
+674441960ca1ba2de08ad4e50c9fde98 (1 entries): null
+
+Event 'UNK_83': 
+Event 'Return from Elsewhere': 
+6a5efb140f0519038a5d547071f9dcf8 (53 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (133 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+ca8eb0f17640a867d1fe97f22902df4f (1 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Over Under': 
+9744401ade96a6d56ffc77c2f2f222e8 (242 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Under Over': 
+9744401ade96a6d56ffc77c2f2f222e8 (179 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_87': 
+Event 'Undersea': 
+9744401ade96a6d56ffc77c2f2f222e8 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_89': 
+Event 'UNK_90': 
+Event 'Homesick': 
+9744401ade96a6d56ffc77c2f2f222e8 (51 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'Superyummy text': 
+9744401ade96a6d56ffc77c2f2f222e8 (68 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+ca8eb0f17640a867d1fe97f22902df4f (1 entries): json {
+		play: int
+		subPlay: int
+	}
+
+Event 'Perk': 
+9744401ade96a6d56ffc77c2f2f222e8 (78 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (28 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+6a5efb140f0519038a5d547071f9dcf8 (39 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+7cbd5ade406ed2ed82a5d19edda84002 (5 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+25bc0eff104ffc74d03e5c43714e42a7 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+Event 'UNK_94': 
+Event 'UNK_95': 
+Event 'Earlbirds': 
+9744401ade96a6d56ffc77c2f2f222e8 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Late to the Party': 
+ca8eb0f17640a867d1fe97f22902df4f (11 entries): json {
+		play: int
+		subPlay: int
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'UNK_98': 
+Event 'UNK_99': 
+Event 'UNK_100': 
+Event 'UNK_101': 
+Event 'UNK_102': 
+Event 'UNK_103': 
+Event 'UNK_104': 
+Event 'UNK_105': 
+Event 'Added in-game modifier (Triple Threat, Free Refill, Magmatic, Inhabiting, etc)': 
+1141dc704717ef6f5d0397eba44e6ddf (953 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		subPlay: int
+	}
+
+28bb11d9db41f116757ab33b229a202c (17 entries): json {
+		mod: string
+		type: int
+		parent: string
+	}
+
+6a3ecdcf413b051265eaeb69f91d1b5b (30 entries): json {
+		mod: string
+		type: int
+	}
+
+Event 'Removed in-game modifier (same as above, but when they disappear)': 
+1141dc704717ef6f5d0397eba44e6ddf (990 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		subPlay: int
+	}
+
+6a3ecdcf413b051265eaeb69f91d1b5b (10 entries): json {
+		mod: string
+		type: int
+	}
+
+Event 'Modifier expires': 
+f9899386dfe9339ed1a286ef0a0ed82c (665 entries): json {
+		mods: json [
+			string
+		]
+		type: int
+	}
+
+734e56d7db3898b007f003eaff58b34c (22 entries): json {
+		mods: json [
+			string
+			string
+		]
+		type: int
+	}
+
+cd386f4f776e1a09eefb695fade3d6e8 (1 entries): json {
+		mods: json [
+			string
+			string
+			string
+		]
+		type: int
+	}
+
+Event 'Player recruited (including Postseason Births)': 
+746afb603a60da78af4d30778f8042d0 (5 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		location: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+
+1044ea6aebb5c104b9b79094d2f8ddc1 (53 entries): json {
+		teamId: string
+		location: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+
+ba1e713b79ce96e805226cc1203b32d8 (3 entries): json {
+		parent: string
+		teamId: string
+		location: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+
+Event 'Player sent to shadows and replaced (necromancy)': 
+9c77c593d1aff09e81506abb4f67bdfb (3 entries): json {
+		parent: string
+		teamId: string
+		teamName: string
+		addLocation: int
+		addPlayerId: string
+		addPlayerName: string
+		retreatLocation: int
+		retreatPlayerId: string
+		retreatPlayerName: string
+	}
+
+Event 'Player removed and replaced from shadows (Returned)': 
+7be6937766e5f1e991bfd71b1efc5389 (2 entries): json {
+		teamId: string
+		teamName: string
+		removeLocation: int
+		removePlayerId: string
+		promoteLocation: int
+		promotePlayerId: string
+		removePlayerName: string
+		promotePlayerName: string
+	}
+
+Event 'ECHO player STATIC (child event)': 
+1dbf63258eae39c4dc4e87fd4f7d9aec (12 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		playerId: string
+		teamName: string
+		playerName: string
+	}
+
+Event 'Player trade': 
+e9421bcbbf603ef51dc261100b32dd6a (13 entries): json {
+		play: int
+		parent: string
+		aTeamId: string
+		bTeamId: string
+		subPlay: int
+		aLocation: int
+		aPlayerId: string
+		aTeamName: string
+		bLocation: int
+		bPlayerId: string
+		bTeamName: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+
+08526adbf423f9e76c4815a7cc9c02ea (47 entries): json {
+		parent: string
+		aTeamId: string
+		bTeamId: string
+		aLocation: int
+		aPlayerId: string
+		aTeamName: string
+		bLocation: int
+		bPlayerId: string
+		bTeamName: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+
+Event 'Player changing position': 
+79ff3ae0a6d24e11e0fb77156dbabc72 (9 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		teamName: string
+		aLocation: int
+		aPlayerId: string
+		bLocation: int
+		bPlayerId: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+
+7144da5cf54d44a5afb48938531e6c39 (49 entries): json {
+		parent: string
+		teamId: string
+		teamName: string
+		aLocation: int
+		aPlayerId: string
+		bLocation: int
+		bPlayerId: string
+		aPlayerName: string
+		bPlayerName: string
+	}
+
+Event 'Player joining team': 
+4b74558a358b11f77bafe69eaf083472 (8 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveLocation: int
+		receiveTeamName: string
+	}
+
+0c41af7f1ee92efc078fe3bb50478a0f (5 entries): json {
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveLocation: int
+		receiveTeamName: string
+	}
+
+aa88f1fb30d51037772381171acca669 (17 entries): json {
+		parent: string
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveLocation: int
+		receiveTeamName: string
+	}
+
+5c43e813a6f26406a7646c99f5e9172b (8 entries): json {
+		parent: string
+		location: int
+		playerId: string
+		playerName: string
+		sendTeamId: string
+		sendTeamName: string
+		receiveTeamId: string
+		receiveTeamName: string
+	}
+
+Event 'New player after incineration': 
+0456679a469dcfc8e8dcb55f44c2daef (18 entries): json {
+		play: int
+		parent: string
+		teamId: string
+		subPlay: int
+		location: int
+		teamName: string
+		inPlayerId: string
+		outPlayerId: string
+		inPlayerName: string
+		outPlayerName: string
+	}
+
+Event 'Player stat increase': 
+a9274ebcc0b9b061d3c464f50d20afcf (379 entries): json {
+		play: int
+		type: int
+		after: double
+		before: double
+		parent: string
+		subPlay: int
+	}
+
+597222bc90e646a69d63125d8a26a28d (522 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+bd0b32a0c2f85785283d45115bcdae9a (45 entries): json {
+		type: int
+		after: double
+		before: double
+	}
+
+Event 'Player stat decrease': 
+a9274ebcc0b9b061d3c464f50d20afcf (361 entries): json {
+		play: int
+		type: int
+		after: double
+		before: double
+		parent: string
+		subPlay: int
+	}
+
+597222bc90e646a69d63125d8a26a28d (11 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+Event 'Player reroll': 
+597222bc90e646a69d63125d8a26a28d (11 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+Event 'UNK_120': 
+Event 'UNK_121': 
+Event 'UNK_122': 
+Event 'UNK_123': 
+Event 'UNK_124': 
+Event 'Player enters the Hall of Flame': 
+f50b7dbc400b1d18444ec8ff03b5f168 (18 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+674441960ca1ba2de08ad4e50c9fde98 (2 entries): null
+
+Event 'Player exits the Hall of Flame': 
+ce4708628990d6b414310ab0aaeebcc3 (3 entries): json {
+		parent: string
+	}
+
+Event 'Player gained item': 
+e410a29110cd791067ae58cec380a854 (19 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: double
+		playerItemRatingBefore: int
+	}
+
+519519ac36121605018e341c9e9c9ca2 (2 entries): json {
+		mods: json [
+			string
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: double
+		playerItemRatingBefore: int
+	}
+
+745e7cd1931842015c63ac3631904f4c (1 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: int
+		playerItemRatingBefore: int
+	}
+
+a3fc1ce867d85e4f4df06bd958a1145e (329 entries): json {
+		mods: json [
+		]
+		itemId: string
+		parent: string
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: double
+		playerItemRatingBefore: int
+	}
+
+b5e466e9aee13ee53f8b3c38403f706f (4 entries): json {
+		mods: json [
+			string
+		]
+		itemId: string
+		parent: string
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: double
+		playerItemRatingBefore: int
+	}
+
+Event 'Player dropped item': 
+7fdd82ba9afe69726cf8cee6699bce7f (13 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: int
+		playerItemRatingBefore: double
+	}
+
+745e7cd1931842015c63ac3631904f4c (2 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: int
+		playerItemRatingBefore: int
+	}
+
+911c0048743aa8eabc1483301e0ac68a (1 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		playerItemRatingAfter: double
+		playerItemRatingBefore: double
+	}
+
+Event 'UNK_129': 
+Event 'Reverb shuffle (full)': 
+f50b7dbc400b1d18444ec8ff03b5f168 (1 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+Event 'UNK_131': 
+Event 'Reverb shuffle (rotation)': 
+f50b7dbc400b1d18444ec8ff03b5f168 (6 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+Event 'UNK_133': 
+Event 'UNK_134': 
+Event 'New team': 
+7a53a3f5673e2caa1a256c62f11d7116 (4 entries): json {
+		teamId: string
+		teamName: string
+		divisionId: string
+		divisionName: string
+	}
+
+Event 'New player (excluding incinerations)': 
+b00a494c24463da72a6cff5f50c225ac (16 entries): json {
+		id: string
+	}
+
+Event 'Player hatched': 
+6fdad44bdefcac080e5a0efdfb44939b (18 entries): json {
+		id: string
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+b00a494c24463da72a6cff5f50c225ac (40 entries): json {
+		id: string
+	}
+
+Event 'UNK_138': 
+Event 'Player Evolves': 
+ce4708628990d6b414310ab0aaeebcc3 (14 entries): json {
+		parent: string
+	}
+
+Event 'UNK_140': 
+Event 'Team wins Internet Series': 
+54d6c104934f815472e169ffba2a09b7 (4 entries): json {
+		championships: int
+	}
+
+Event 'Postseason spot': 
+674441960ca1ba2de08ad4e50c9fde98 (40 entries): null
+
+Event 'Final standings': 
+0e4e46bd539adf8219ab229580789ad4 (96 entries): json {
+		place: int
+	}
+
+Event 'Wired -> Tired transitions': 
+7fbdbdb108999b57865bd25ea1048ca2 (35 entries): json {
+		to: string
+		from: string
+		play: int
+		type: int
+		parent: string
+		subPlay: int
+	}
+
+88707366db72dd53131c74d4601c4b84 (3 entries): json {
+		to: string
+		from: string
+		type: int
+		parent: string
+	}
+
+23f4d67e45c91da0d48af5377ad39fe0 (8 entries): json {
+		to: string
+		from: string
+		type: int
+	}
+
+Event 'Player becomes an Alternate': 
+597222bc90e646a69d63125d8a26a28d (6 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+Event 'Added modifier due to another modifier(?) (under/over, Perk)': 
+31c9259834f4b2de15d56f626f3c4a65 (849 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+Event 'Removed modifier added due to another modifier(?) (under/over, Perk)': 
+31c9259834f4b2de15d56f626f3c4a65 (533 entries): json {
+		mod: string
+		play: int
+		type: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+Event 'Superyummy transitions (Overperforming -> Underperforming, vice versa, may be general modifier-induced mod swaps)': 
+b6aef264d2b60b554872691e4512375e (113 entries): json {
+		to: string
+		from: string
+		play: int
+		type: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+Event 'Necromancy narration': 
+ce4708628990d6b414310ab0aaeebcc3 (5 entries): json {
+		parent: string
+	}
+
+Event 'Returned player is permitted to stay': 
+674441960ca1ba2de08ad4e50c9fde98 (3 entries): null
+
+Event 'Decree narration': 
+ce4708628990d6b414310ab0aaeebcc3 (4 entries): json {
+		parent: string
+	}
+
+Event 'Will results': 
+ce4708628990d6b414310ab0aaeebcc3 (198 entries): json {
+		parent: string
+	}
+
+Event 'Blessing results': 
+ce4708628990d6b414310ab0aaeebcc3 (9 entries): json {
+		parent: string
+	}
+
+Event 'Team shamed': 
+27f464783be09851b6b3a478ab2e4948 (519 entries): json {
+		totalShames: int
+		totalShamings: int
+	}
+
+Event 'Team shames': 
+27f464783be09851b6b3a478ab2e4948 (519 entries): json {
+		totalShames: int
+		totalShamings: int
+	}
+
+Event 'Sun 2 grants win': 
+674441960ca1ba2de08ad4e50c9fde98 (66 entries): null
+
+Event 'Black Hole swallows': 
+674441960ca1ba2de08ad4e50c9fde98 (81 entries): null
+
+Event 'Eliminated from postseason': 
+674441960ca1ba2de08ad4e50c9fde98 (36 entries): null
+
+Event 'Postseason advance': 
+674441960ca1ba2de08ad4e50c9fde98 (32 entries): null
+
+Event 'UNK_160': 
+Event 'Player gained blood type': 
+ce4708628990d6b414310ab0aaeebcc3 (23 entries): json {
+		parent: string
+	}
+
+Event 'UNK_162': 
+Event 'UNK_163': 
+Event 'UNK_164': 
+Event 'Team is/not Overperforming': 
+9744401ade96a6d56ffc77c2f2f222e8 (652 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Lineup optimized': 
+ce4708628990d6b414310ab0aaeebcc3 (1 entries): json {
+		parent: string
+	}
+
+674441960ca1ba2de08ad4e50c9fde98 (1 entries): null
+
+Event 'UNK_167': 
+Event 'Peanut Allergy cured': 
+ce4708628990d6b414310ab0aaeebcc3 (10 entries): json {
+		parent: string
+	}
+
+Event 'Player echoed': 
+7cbd5ade406ed2ed82a5d19edda84002 (32 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+7e081ba427d63e80344e095fd8bd3610 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+		]
+	}
+
+ba89e04a84b97953712d703158dbcade (16 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+25bc0eff104ffc74d03e5c43714e42a7 (3 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+9764e7d94a198fcd6b9622d0b8915d7a (27 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+59822195f5bdb7b81f4a0e843d1d275e (3 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+faa26b2f081db5c525c1e97fe1cdec70 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+19b33fdddf50ef61eaf03f358d2a78b1 (1 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+			string
+		]
+	}
+
+Event 'ECHO player STATIC': 
+7cbd5ade406ed2ed82a5d19edda84002 (6 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+			string
+			string
+		]
+	}
+
+Event 'Echo Fades': 
+b8ba962366bd9153459d88fb018c3dc3 (157 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+ae23f84b930db1440931d696ed073d7a (20 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+c9f812a511e2712d0f35785ebe8dcbda (54 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+9a6382db01ad8c4010629b45c62e949f (1 entries): json {
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+		]
+	}
+
+c4e1507569af8f676240ccadafc4abb6 (26 entries): json {
+		play: int
+		parent: string
+		source: string
+		removes: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		subPlay: int
+	}
+
+Event 'Added modifier due to Player echo': 
+f95f71cbd912c3883a0b87f3d283937c (161 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+90d9d83400c1467f6e6f5f3794953d8e (20 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+aeb88645b4364d74675f5a77cc6680eb (62 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+5962a89b26c986bda2582755fa06720b (28 entries): json {
+		adds: json [
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+			json {
+				mod: string
+				type: int
+			}
+		]
+		play: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+
+Event 'Psychoacoustics Echo': 
+9744401ade96a6d56ffc77c2f2f222e8 (24 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'ECHO player ECHO player ECHO': 
+9744401ade96a6d56ffc77c2f2f222e8 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Alternate Coin text (hidden from Book, includes player)': 
+3023d424768fa67408b6d2b72da0c7f5 (3 entries): json {
+	}
+
+674441960ca1ba2de08ad4e50c9fde98 (7 entries): null
+
+f50b7dbc400b1d18444ec8ff03b5f168 (2 entries): json {
+		play: int
+		parent: string
+		subPlay: int
+	}
+
+Event 'The Investigation is Underway': 
+c62941000160257facb6a79997439a18 (1 entries): json {
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'Player opens crate (Gains item, ditches another)': 
+6a5efb140f0519038a5d547071f9dcf8 (16 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+9744401ade96a6d56ffc77c2f2f222e8 (6 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Team is/not Middling': 
+9744401ade96a6d56ffc77c2f2f222e8 (2 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+		]
+	}
+
+Event 'Player stat increased by %': 
+597222bc90e646a69d63125d8a26a28d (3 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+Event 'Player stat decreased by %': 
+597222bc90e646a69d63125d8a26a28d (1 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+
+Event 'Player enters the Crime Scene to Investigate': 
+6a5efb140f0519038a5d547071f9dcf8 (4 entries): json {
+		play: int
+		subPlay: int
+		children: json [
+			string
+			string
+		]
+	}
+
+Event 'UNK_182': 
+Event 'UNK_183': 
+Event 'UNK_184': 
+Event 'Player's item broke': 
+71ad826b27ef3ca41b6c6ab111105eb3 (112 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: int
+		playerItemRatingBefore: double
+	}
+
+cf5ba1245244b52d4f196ff3b5f2cd8b (1 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: int
+		playerItemRatingBefore: int
+	}
+
+Event 'Player's item was damaged': 
+4132b703f2b3f560e0f1751ee44566e1 (5 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: double
+		playerItemRatingBefore: double
+	}
+
+Event 'Player's item was restored (Salmon swam upstream)': 
+ec25c3c87b9b7099ea2522038d294ad6 (34 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: double
+		playerItemRatingBefore: int
+	}
+
+Event 'Player's item was repaired (Salmon swam upstream)': 
+4132b703f2b3f560e0f1751ee44566e1 (1 entries): json {
+		mods: json [
+		]
+		play: int
+		itemId: string
+		parent: string
+		subPlay: int
+		itemName: string
+		playerRating: double
+		itemDurability: int
+		itemHealthAfter: int
+		itemHealthBefore: int
+		playerItemRatingAfter: double
+		playerItemRatingBefore: double
+	}
+
+Event 'UNK_189': 
+Event 'UNK_190': 
+Event 'UNK_191': 
+Event 'UNK_192': 
+Event 'UNK_193': 
+Event 'UNK_194': 
+Event 'UNK_195': 
+Event 'UNK_196': 
+Event 'UNK_197': 
+Event 'UNK_198': 
+Event 'UNK_199': 
+Event 'UNK_200': 

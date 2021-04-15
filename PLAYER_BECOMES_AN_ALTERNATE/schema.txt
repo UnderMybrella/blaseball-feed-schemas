@@ -1,0 +1,8 @@
+Event 'Player becomes an Alternate': 
+597222bc90e646a69d63125d8a26a28d (6 entries): json {
+		type: int
+		after: double
+		before: double
+		parent: string
+	}
+

@@ -1,0 +1,5 @@
+json {
+	title: string
+	votes: string
+	renoId: string
+}

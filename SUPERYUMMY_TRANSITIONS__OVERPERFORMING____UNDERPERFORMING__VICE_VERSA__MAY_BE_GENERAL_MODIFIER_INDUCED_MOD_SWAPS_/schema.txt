@@ -1,0 +1,11 @@
+Event 'Superyummy transitions (Overperforming -> Underperforming, vice versa, may be general modifier-induced mod swaps)': 
+b6aef264d2b60b554872691e4512375e (113 entries): json {
+		to: string
+		from: string
+		play: int
+		type: int
+		parent: string
+		source: string
+		subPlay: int
+	}
+

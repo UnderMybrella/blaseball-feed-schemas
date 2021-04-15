@@ -1,0 +1,6 @@
+Event 'Birds flavor text': 
+ca8eb0f17640a867d1fe97f22902df4f (666 entries): json {
+		play: int
+		subPlay: int
+	}
+

@@ -1,0 +1,8 @@
+json {
+	play: int
+	winner: string
+	subPlay: int
+	children: json [
+		string
+	]
+}
